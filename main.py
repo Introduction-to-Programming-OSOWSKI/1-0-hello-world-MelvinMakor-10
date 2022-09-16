@@ -1,1 +1,3 @@
-wordSmash("Cat","Dog")
+def wordSmash("Cat", "Dog")
+
+
