@@ -1,3 +1,5 @@
-def wordSmash("Cat", "Dog")
+from re import A
 
 
+def wordSmash():
+    (a, b)= "ab"
